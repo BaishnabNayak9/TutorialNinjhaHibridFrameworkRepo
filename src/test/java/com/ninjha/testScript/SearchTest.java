@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import com.ninjha.baseClass.Base;
-
+// updated comments -- added more details
 public class SearchTest extends Base{
 	public SearchTest() {
 		super();
